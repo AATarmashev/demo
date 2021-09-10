@@ -1,0 +1,740 @@
+{
+	"Облигация1": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "20.12.2027",
+			"offer": null,
+			"payment": "22.12.2025"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A101234",
+			"inQUIK": "Облигация1",
+			"inReport": "ООО \"Облигация1\"  Облигация1  2552-2362346-235P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 1": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "18.8.2029",
+			"offer": null,
+			"payment": "8.10.2025"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A105678",
+			"inQUIK": "Компания 11P2",
+			"inReport": "ООО \"Компания 1\"  Компания 11P2  4B02-02-00524-R"
+		},
+		"nominal": 1000,
+		"percent": 14
+	},
+	"Компания 12": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "16.03.2028",
+					"value": 140
+				},
+				{
+					"date": "15.04.2028",
+					"value": 140
+				},
+				{
+					"date": "15.05.2028",
+					"value": 140
+				},
+				{
+					"date": "14.06.2028",
+					"value": 140
+				},
+				{
+					"date": "14.07.2028",
+					"value": 140
+				},
+				{
+					"date": "12.09.2028",
+					"value": 300
+				}
+			],
+			"maturity": "12.09.2028",
+			"offer": null,
+			"payment": "30.04.2025"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A108761",
+			"inQUIK": "Компания 11P1",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 2": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "07.06.2025",
+					"value": 50
+				},
+				{
+					"date": "08.09.2025",
+					"value": 50
+				},
+				{
+					"date": "10.12.2025",
+					"value": 50
+				},
+				{
+					"date": "13.03.2026",
+					"value": 50
+				},
+				{
+					"date": "14.06.2026",
+					"value": 50
+				},
+				{
+					"date": "15.09.2026",
+					"value": 100
+				},
+				{
+					"date": "17.12.2026",
+					"value": 100
+				},
+				{
+					"date": "20.03.2027",
+					"value": 100
+				},
+				{
+					"date": "21.06.2027",
+					"value": 150
+				},
+				{
+					"date": "22.09.2027",
+					"value": 150
+				},
+				{
+					"date": "24.12.2027",
+					"value": 150
+				}
+			],
+			"maturity": "24.12.2027",
+			"offer": null,
+			"payment": "9.10.2025"
+		},
+		"periodBetweenPayments": 31,
+		"name": {
+			"ISIN": "RU000A109140",
+			"inQUIK": "Компания 2Б03",
+			"inReport": "ООО МФК \"Компания 2\"  Компания 2Б03  4B02-03-00321-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Облигация3": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "30.06.2025",
+					"value": 25
+				},
+				{
+					"date": "29.08.2025",
+					"value": 25
+				},
+				{
+					"date": "28.10.2025",
+					"value": 25
+				},
+				{
+					"date": "27.12.2025",
+					"value": 50
+				},
+				{
+					"date": "25.02.2026",
+					"value": 50
+				},
+				{
+					"date": "26.04.2026",
+					"value": 50
+				},
+				{
+					"date": "25.06.2026",
+					"value": 50
+				},
+				{
+					"date": "17.11.2027 ",
+					"value": 725
+				}
+			],
+			"maturity": "17.11.2027 ",
+			"offer": null,
+			"payment": "27.03.2026"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A100674",
+			"inQUIK": "Облигация3",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 3": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "08.04.2026",
+					"value": 340
+				},
+				{
+					"date": "08.05.2026",
+					"value": 340
+				},
+				{
+					"date": "07.06.2026",
+					"value": 340
+				},
+				{
+					"date": "07.07.2026",
+					"value": 340
+				},
+				{
+					"date": "06.08.2026",
+					"value": 340
+				},
+				{
+					"date": "05.09.2026",
+					"value": 340
+				},
+				{
+					"date": "05.10.2026",
+					"value": 340
+				},
+				{
+					"date": "04.11.2026",
+					"value": 340
+				},
+				{
+					"date": "04.12.2026",
+					"value": 340
+				},
+				{
+					"date": "03.01.2027",
+					"value": 340
+				},
+				{
+					"date": "02.02.2027",
+					"value": 340
+				},
+				{
+					"date": "04.03.2027",
+					"value": 340
+				},
+				{
+					"date": "03.04.2027",
+					"value": 340
+				},
+				{
+					"date": "03.05.2027",
+					"value": 340
+				},
+				{
+					"date": "02.06.2027",
+					"value": 340
+				},
+				{
+					"date": "02.7.2027",
+					"value": 340
+				},
+				{
+					"date": "01.08.2027",
+					"value": 340
+				},
+				{
+					"date": "31.08.2027",
+					"value": 340
+				},
+				{
+					"date": "30.09.2027",
+					"value": 340
+				},
+				{
+					"date": "30.10.2027",
+					"value": 340
+				},
+				{
+					"date": "29.11.2027",
+					"value": 340
+				},
+				{
+					"date": "29.12.2027",
+					"value": 340
+				},
+				{
+					"date": "28.01.2028",
+					"value": 340
+				},
+				{
+					"date": "27.02.2028",
+					"value": 340
+				},
+				{
+					"date": "29.03.2028",
+					"value": 340
+				},
+				{
+					"date": "28.04.2028",
+					"value": 340
+				},
+				{
+					"date": "28.05.2028",
+					"value": 340
+				},
+				{
+					"date": "27.06.2028",
+					"value": 340
+				},
+				{
+					"date": "27.07.2028",
+					"value": 340
+				},
+				{
+					"date": "26.08.2028",
+					"value": 140
+				}
+			],
+			"maturity": "26.8.2028",
+			"offer": "31.3.2025",
+			"payment": "10.10.2025"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A100108",
+			"inQUIK": "Компания 31P01",
+			"inReport": "Компания 31P01  4B02-01-00480-R-001P"
+		},
+		"nominal": 10000,
+		"percent": 14,
+		"percentAfterOffer": 15
+	},
+	"Компания 10": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "22.11.2027",
+			"offer": "4.3.2026",
+			"payment": "30.11.2025"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A0ZY534",
+			"inQUIK": "Компания 10",
+			"inReport": "ОАО \"Компания 10\"  Компания 10  4B02-01-845646-4336"
+		},
+		"nominal": 1000,
+		"percent": 15,
+		"percentAfterOffer": 12.75
+	},
+	"Компания 9": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "27.9.2027",
+			"offer": "2.4.2026",
+			"payment": "29.12.2025"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A105664",
+			"inQUIK": "Компания 9",
+			"inReport": "Компания 9 4B02-01-00360-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 8": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "25.10.2027",
+			"offer": "22.4.2026",
+			"payment": "11.10.2025"
+		},
+		"periodBetweenPayments": 31,
+		"name": {
+			"ISIN": "RU000A0ZYAQ7",
+			"inQUIK": "Компания 8",
+			"inReport": "ООО \"Компания 8\"  4B02-01-74243-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 7": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "10.5.2028",
+			"offer": "10.6.2027",
+			"payment": "22.10.2025"
+		},
+		"periodBetweenPayments": 31,
+		"name": {
+			"ISIN": "RU000A0Z7788",
+			"inQUIK": "Компания 2 БО-1-1",
+			"inReport": "ООО \"Компания 7\"  Компания 2Б2  4B02-02-96454-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 14
+	},
+	"Компания 4": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "27.1.2027",
+			"offer": null,
+			"payment": "3.12.2025"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A100333",
+			"inQUIK": "Компания 4",
+			"inReport": "ООО \"Компания 4\"  4B02-01-84745-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Компания 5": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "06.10.2026",
+					"value": 250
+				},
+				{
+					"date": "05.01.2027",
+					"value": 250
+				},
+				{
+					"date": "06.04.2027",
+					"value": 250
+				},
+				{
+					"date": "06.07.2027",
+					"value": 250
+				}
+			],
+			"maturity": "6.7.2027",
+			"offer": null,
+			"payment": "6.1.2026"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A107777",
+			"inQUIK": "Компания 5",
+			"inReport": "ООО \"Компания 5\"  78745-02-16345-K-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Облигация2": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "21.9.2027",
+			"offer": null,
+			"payment": "23.12.2025"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A100V38",
+			"inQUIK": "Облигация2Т1Р01",
+			"inReport": "Облигация2Т1Р01  4B02-01-00483-R-001P"
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Облигация13": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "30.01.2029",
+					"value": 150
+				},
+				{
+					"date": "30.04.2029",
+					"value": 150
+				},
+				{
+					"date": "30.07.2029",
+					"value": 150
+				},
+				{
+					"date": "29.10.2029",
+					"value": 550
+				}
+			],
+			"maturity": "29.10.2029",
+			"offer": "1.11.2027",
+			"payment": "2.2.2026"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A108888",
+			"inQUIK": "Облигация13",
+			"inReport": "Облигация13  3464-01-00999-R-009P"
+		},
+		"nominal": 1000,
+		"percent": 14
+	},
+	"Облигация12": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "04.05.2028",
+			"offer": "19.05.2026",
+			"payment": "13.02.2026"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A0Z9999",
+			"inQUIK": "Облигация12",
+			"inReport": ""
+		},
+		"nominal": 50000,
+		"percent": 15
+	},
+	"Облигация11": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "31.07.2025",
+			"offer": "10.08.2026",
+			"payment": "04.02.2026"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A102028",
+			"inQUIK": "Облигация11",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Облигация10": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "29.02.2036",
+			"offer": null,
+			"payment": "19.03.2026"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A00000",
+			"inQUIK": "Облигация10",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 9
+	},
+	"Облигация9": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "14.02.2027",
+			"offer": null,
+			"payment": "16.08.2026"
+		},
+		"periodBetweenPayments": 182,
+		"name": {
+			"ISIN": "RU000A0JWQ45",
+			"inQUIK": "Облигация9",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 14
+	},
+	"Облигация4": {
+		"currency": "Рубль",
+		"date": {
+			"maturity": "28.09.2027",
+			"offer": null,
+			"payment": "30.06.2026"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A101111",
+			"inQUIK": "Облигация4Б1P1",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 14
+	},
+	"Облигация8": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "23.04.2025",
+					"value": 200
+				},
+				{
+					"date": "22.04.2026",
+					"value": 300
+				},
+				{
+					"date": "21.04.2027",
+					"value": 500
+				}
+			],
+			"maturity": "21.04.2027",
+			"offer": null,
+			"payment": "25.07.2019"
+		},
+		"periodBetweenPayments": 91,
+		"name": {
+			"ISIN": "RU000A102233",
+			"inQUIK": "Облигация8",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 15
+	},
+	"Облигация7": {
+		"currency": "Рубль",
+		"date": {
+			"maturities": [
+				{
+					"date": "19.01.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.02.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.03.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.04.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.05.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.06.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.07.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.08.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.09.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.10.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.11.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.12.2025",
+					"value": 33.3
+				},
+				{
+					"date": "19.01.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.02.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.03.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.04.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.05.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.06.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.07.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.08.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.09.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.10.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.11.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.12.2026",
+					"value": 33.3
+				},
+				{
+					"date": "19.01.2027",
+					"value": 33.3
+				},
+				{
+					"date": "19.02.2027",
+					"value": 33.3
+				},
+				{
+					"date": "19.03.2027",
+					"value": 33.3
+				},
+				{
+					"date": "19.04.2027",
+					"value": 33.3
+				},
+				{
+					"date": "19.05.2027",
+					"value": 33.3
+				},
+				{
+					"date": "19.06.2027",
+					"value": 34.4
+				}
+			],
+			"maturity": "19.06.2027",
+			"offer": null,
+			"payment": "19.07.2026"
+		},
+		"periodBetweenPayments": 30,
+		"name": {
+			"ISIN": "RU000A16243",
+			"inQUIK": "Облигация7",
+			"inReport": ""
+		},
+		"nominal": 1000,
+		"percent": 15
+	}
+}
